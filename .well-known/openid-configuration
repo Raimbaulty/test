@@ -29,11 +29,6 @@
     "client_secret_post"
   ],
   "claims_supported": [
-    "aud",
-    "exp",
-    "iat",
-    "iss",
-    "sub",
     "id",
     "username",
     "name",
